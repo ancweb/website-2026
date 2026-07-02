@@ -55,7 +55,7 @@ const featuresData: Feature[] = [
     title: "Media & Publicity",
     description:
       "The Wing primarily dedicated to boosting the visibility and engagement in the events of the AnC Council.",
-    link: "javascript:void(0)",
+    link: "/wings/media_and_publicity",
   },
   {
     id: 7,
