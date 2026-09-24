@@ -2,7 +2,7 @@ import "./globals.css";
 
 export const metadata = {
   verification: {
-    google: "cDZiuecVhr0neGXyQwLYAYkv_2zT5CfCiVJHkmnnFuU",
+    google: "pXhPc7pZ99SO53K8YiQeaL6IRPYAAg18wZxNZdYickE",
   },
 };
 
